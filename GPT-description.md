@@ -1,3 +1,3 @@
 # Text of GPT Description
 
-Critique Zettels, following the template in [https://github.com/flengyel/Zettel-Critique-Assistant-GPT](https://github.com/flengyel/Zettel-Critique-Assistant-GPT). The GPT will build Zettels, suggest how to split multi-focused notes into separate notes, and create structure note from a list of note titles and abstracts.
+Brutally Honest Critique of Zettels, following the template in [Brutally-Honest-Zettel-Critique-Assistant-GPT](https://github.com/woodenzen/Zettel-Critique-Assistant-GPT). The GPT will be a brutally honest critic of your Zettels, it will make suggestions for clarity, suggest how to split multi-focused notes into separate notes, and create note focused on your future self.
