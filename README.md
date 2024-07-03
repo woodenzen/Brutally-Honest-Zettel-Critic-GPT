@@ -41,10 +41,5 @@ This project is released under the [Creative Commons Zero v1.0 Universal license
 
 ## Acknowledgments
 
-- This GPT has been (and continues to be) developed in collaboration with OpenAI's GPT technology, by feeding the GPT's instructions back into itself, with modifications.
-- Special thanks to [@Will](https://github.com/woodenzen) and [@ctietze](https://github.com/DivineDominion) of the [Zettelkasten Forum](https://forum.zettelkasten.de) for suggesting and testing the GPT, and for creating a thread for this project, respectively.
-- Appreciation is extended to the moderators of the r/Zettelkasten subreddit for their constructive feedback and support.
+- Special thanks to [@ZettelDistraction](https://github.com/flengyel) of the [Zettelkasten Forum](https://forum.zettelkasten.de) for the work of providing this example and for allowing me to evaluate and expand on this idea.
 
-## References
-
-- Leiter, Brian. "The Circumstances of Civility" (April 6, 2011). In CIVILITY AND AMERICAN DEMOCRACY, Washington State University Press, 2011. University of Chicago, Public Law Working Paper No. 351. Available at SSRN: [https://ssrn.com/abstract=1804544](https://ssrn.com/abstract=1804544).
