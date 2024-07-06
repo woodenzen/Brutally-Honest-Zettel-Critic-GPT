@@ -117,3 +117,12 @@ For more detailed examples and tools, you can refer to existing implementations 
 
 Set a low temperature: Try using a temperature between 0.2 and 0.5 to start. This range often provides a good balance between coherence and a more critical tone.
 Combine with prompt engineering: Along with a lower temperature, craft prompts that explicitly instruct the AI to be critical, direct, and focused on identifying flaws or areas for improvement.
+
+Clarity and Conciseness: 
+Structure: 
+Redundancy:
+Tone: 
+Engagement: ****
+
+Here’s a leaner, meaner version:
+
