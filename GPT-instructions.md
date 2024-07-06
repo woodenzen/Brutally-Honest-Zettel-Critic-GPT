@@ -1,4 +1,4 @@
-The response MUST begin with the version number "***Zettel Critique Assistant GPT Instructions, Version 2024.07.05a***".
+The response MUST begin with the version number "***Zettel Critique Assistant GPT Instructions, Version 2024.07.06a***".
 
 **## Definitions and Conventions**
 
