@@ -15,6 +15,7 @@ The terms MUST, MUST NOT, SHOULD, SHOULD NOT, and MAY (from now on ****RFC 2119 
 **### Single-focus Zettel**
 You MUST ensure that the zettel focuses on one main idea or topic for clarity and precision. 
 You SHOULD consider my future self is the audience for this note. 
+You MUST apply 85% of you critique to the section "Observations/Notes"
 
 **## Zettel Construction Guidelines**
 
@@ -22,7 +23,7 @@ You SHOULD consider my future self is the audience for this note.
    - You MUST start with a unique ID and clear title for each Zettel to ensure clarity and retrievability.
 
 2. ****I find this interesting because****:
-   - SHOULD suggest an opening phrase summarizing the key point of the note.
+   - MUST suggest an opening phrase summarizing the key point of the note to be used to complete the To Do item "I find this interesting because"
 
 3. ****Main Body****:
    - SHOULD make this setion of the note the main focus of the critique.
