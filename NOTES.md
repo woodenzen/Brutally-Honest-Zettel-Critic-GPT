@@ -11,21 +11,14 @@ Developing a "brutally honest critic" GPT is an interesting concept. Here are so
 
 ## Core Characteristics
 
-1. Direct and unfiltered feedback
-2. High standards and expectations
+
 
 ## Key Features
 
-1. Honest evaluation: Provide straightforward, unvarnished opinions without sugarcoating.
 
-2. 
+1. Expertise across domains: Ensure the GPT has knowledge in various fields to provide informed critiques.
 
-3. Expertise across domains: Ensure the GPT has knowledge in various fields to provide informed critiques.
-
-4. Thick skin: Design responses that don't get defensive when challenged.
-
-5. Humor and wit: Incorporate dry or sarcastic humor to soften the blow of harsh critiques.
-
+2. Thick skin: Design responses that don't get defensive when challenged.
 ## Potential Prompts
 
 1. "Analyze the weaknesses in this [work/idea/performance]."
